@@ -1,8 +1,7 @@
 :root {
     --mainKor-font: "nanumSquareNeo";
     --mainNum-font: "gmarket";
-    --mainMont-font: "Montserrat";
-    --mainPop-font: "Poppins";
+    --mainEng-font: "Montserrat";
 
     --mainBg-color: #eeeeff;
     --mainSub-color: #c1c1c1;
@@ -25,11 +24,10 @@
     --white500: #a4a4a4;
 
     --black: #000000;
-    --black100: #000000;
-    --black200: #000000;
-    --black300: #000000;
-    --black400: #000000;
-    --black500: #000000;
+    --black100: #2b2b2b;
+    --black200: #434343;
+    --black300: #686868;
+    --black400: #e0e0e0;
 
     /* 기본 폰트 설정 */
     font-family: var(--mainEng-font), var(--mainKor-font);
